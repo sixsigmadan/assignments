@@ -26,3 +26,19 @@ my_github_user/my_repository/path/to/file.php:42
     // Function: do_something_amazing()
 ```
 
+git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+```php
+    $handle = fopen($filename, "w");
+    //Variable: $handle
+    //Variable: $filename
+    //Function: fopen()
+```
+
+git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+```php
+    $parts = explode ("\n",$contents);
+        //Variable: $parts
+        //function: explode()
+        //Variable: $contents
+        //operator: = 
+        //string: \n
