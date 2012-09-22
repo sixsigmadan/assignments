@@ -26,7 +26,7 @@ my_github_user/my_repository/path/to/file.php:42
     // Function: do_something_amazing()
 ```
 
-git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:83
 ```php
     $handle = fopen($filename, "w");
     //Variable: $handle
@@ -34,7 +34,7 @@ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
     //Function: fopen()
 ```
 
-git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:85
 ```php
     $parts = explode ("\n",$contents);
         //Variable: $parts
@@ -45,7 +45,7 @@ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
 ```        
 
 
- git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:43
 ```php
         $telnet->setPrompt("Output interval [ex: 10m, 1h, 1d, ? ] :");
         //Variable: telnet
