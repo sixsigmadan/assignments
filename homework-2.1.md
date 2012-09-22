@@ -52,3 +52,4 @@ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:85
         //function: setPrompt()
         //String: $telnet->setPrompt("Output interval [ex: 10m, 1h, 1d, ? ] :");
 ```
+Update!!!
