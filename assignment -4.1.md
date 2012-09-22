@@ -78,8 +78,8 @@ public function __construct($host = '127.0.0.1', $port = '23', $timeout = 10){
 		return self::TELNET_OK;
 	}
 ```
-//appropriate use of tabs
-//Good use of new lines
-//Good use of spaces
+//appropriate use of tabs \n
+//Good use of new lines \n
+//Good use of spaces  \n
         
     
