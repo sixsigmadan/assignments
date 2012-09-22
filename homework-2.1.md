@@ -42,3 +42,10 @@ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
         //Variable: $contents
         //operator: = 
         //string: \n
+        
+ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git
+```php
+        $telnet->setPrompt("Output interval [ex: 10m, 1h, 1d, ? ] :");
+        //Variable: telnet
+        //function: setPrompt()
+        
