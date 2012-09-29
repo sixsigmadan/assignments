@@ -26,6 +26,7 @@ my_github_user/my_repository/path/to/file.php:42
     // Function: do_something_amazing()
 ```
 
+<<<<<<< HEAD
 git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:83
 ```php
     $handle = fopen($filename, "w");
@@ -53,3 +54,12 @@ git@github.com:sixsigmadan/NASA-Planetary-Data-System-Interface.git:85
         //String: $telnet->setPrompt("Output interval [ex: 10m, 1h, 1d, ? ] :");
 ```
 Update!!!
+=======
+al_the_x/some_awesome_project/path/to/some/file.php:42
+```php
+ if ( PHP == 'awesome' ) {
+ // Constant: PHP
+ // Comparison: ==
+ // String: 'awesome'
+```
+>>>>>>> upstream/master
