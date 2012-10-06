@@ -15,3 +15,28 @@
 * **Bonus points**: open a pull request back to the original repo with your work to date.
 
 [wordpress]:https://github.com/Wordpress/Wordpress/
+
+sixsigmadan/Wordpress/xmlrpc.php:20
+```php
+if ( !isset( $HTTP_RAW_POST_DATA ) ) { //if the isset function is false set the HTTP_RAW_POST_DATA to whatever the file_get_contents function returns
+    $HTTP_RAW_POST_DATA = file_get_contents( 'php://input' );
+```
+sixsigmadan/Wordpress/xmlrpc.php:25
+```php
+if ( isset($HTTP_RAW_POST_DATA) ) //if the isset function is true, set the HTTP_RAW_POST_DATA to whatever the trim function returns
+    $HTTP_RAW_POST_DATA = trim($HTTP_RAW_POST_DATA);
+
+```
+sixsigmadan/Wordpress/wp-login.php:188
+```php
+    if ( empty( $_POST['user_login'] ) ) { //if the user login in empty, display the string "ERROR: Enter a username or e-mail address"
+		$errors->add('empty_username', __('<strong>ERROR</strong>: Enter a username or e-mail address.'));
+	} else if ( strpos( $_POST['user_login'], '@' ) ) {
+		$user_data = get_user_by( 'email', trim( $_POST['user_login'] ) );
+		if ( empty( $user_data ) )
+			$errors->add('invalid_email', __('<strong>ERROR</strong>: There is no user registered with that email address.'));
+	} else {
+		$login = trim($_POST['user_login']);
+		$user_data = get_user_by('login', $login);
+	}
+```
