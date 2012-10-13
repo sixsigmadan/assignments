@@ -5,7 +5,7 @@
  * the command line, because that's what Atlas can give me... C'mon, Atlas!
  */
 
-function usage()
+function usage ( )
 {
     echo '
     Provide a CSV file that contains at least "First Name" and "Last Name"
@@ -37,6 +37,7 @@ echo 'Randomly selected pairs:';
 
 while ( $one = current($names) and $two = next($names) )
 {
+    echo "\n======\n";
     echo "\n\n\t* $one\n\t* $two";
     next($names);
 }
