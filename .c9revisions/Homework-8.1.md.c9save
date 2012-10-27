@@ -100,3 +100,6 @@
 {"ts":1351338885212,"patch":[[{"diffs":[[0,"pletest\n"],[1,"http://www.simpletest.org/"],[0,"\nhttps:/"]],"start1":878,"start2":878,"length1":16,"length2":42}]],"length":1036,"saved":false}
 {"ts":1351338886165,"patch":[[{"diffs":[[0,"st.org/\n"],[1,"\n"],[0,"https://"]],"start1":905,"start2":905,"length1":16,"length2":17}]],"length":1037,"saved":false}
 {"ts":1351338912256,"patch":[[{"diffs":[[0,"/phpunit"],[1,"\nhttp://phpunit.sourceforge.net/"],[0,"\n\nhttps:"]],"start1":950,"start2":950,"length1":16,"length2":48}]],"length":1069,"saved":false}
+{"ts":1351339065927,"patch":[[{"diffs":[[0,"as-job/\n"],[1,"http://googletesting.blogspot.com/2009/07/by-shyam-seshadri-nowadays-when-i-talk.html"],[0,"\n\nFramew"]],"start1":824,"start2":824,"length1":16,"length2":101}]],"length":1154,"saved":false}
+{"ts":1351339068201,"patch":[[{"diffs":[[0,"alk.html"],[1,"git "],[0,"\n\nFramew"]],"start1":909,"start2":909,"length1":16,"length2":20}]],"length":1158,"saved":false}
+{"ts":1351339069495,"patch":[[{"diffs":[[0,"html"],[-1,"git "],[0,"\n\nFr"]],"start1":913,"start2":913,"length1":12,"length2":8}]],"length":1154,"saved":false}

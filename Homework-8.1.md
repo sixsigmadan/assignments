@@ -27,7 +27,7 @@ Cons
 
 Links:
 http://www.typemock.com/blog/2012/07/16/developers-stop-doing-qas-job/
-
+http://googletesting.blogspot.com/2009/07/by-shyam-seshadri-nowadays-when-i-talk.html
 
 Frameworks:
 https://github.com/99designs/simpletest
