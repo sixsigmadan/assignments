@@ -31,6 +31,11 @@ http://www.typemock.com/blog/2012/07/16/developers-stop-doing-qas-job/
 
 Frameworks:
 https://github.com/99designs/simpletest
+http://www.simpletest.org/
+
 https://github.com/sebastianbergmann/phpunit
+http://phpunit.sourceforge.net/
+
 https://github.com/bschussek/lime
+http://sourceforge.net/projects/lime-php/
 
