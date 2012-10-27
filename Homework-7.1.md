@@ -15,8 +15,8 @@ function _get_cron_lock() {
 	}
 ```
 Function Name: _get_cron_lock
-Varibles: none
-Return: nune
+Varibles: $_wp_using_ext_object_cache, $wpdb, $row, $value
+Return: $value
 
 sixsigmadan/Wordpress/wp-login.php:183
 ```php
@@ -63,7 +63,7 @@ function check_password_reset_key($key, $login) {
 ```
 
 function name: check_password_reset_key
-variables: key, login
+variables: $wpdb, $key, $login, $user
 return: , WP_Error function, $user
 
 sixsigmadan/Wordpress/wp-login.php:290

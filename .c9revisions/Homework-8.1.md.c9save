@@ -1,0 +1,96 @@
+{"ts":1351302548692,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1351304122201,"patch":[[{"diffs":[[1,"Unit Testing\n\nIntegration Testing\n"]],"start1":0,"start2":0,"length1":0,"length2":34}]],"length":34,"saved":false}
+{"ts":1351304126000,"patch":[[{"diffs":[[0,"Testing\n"],[1,"Pros"],[0,"\nIntegra"]],"start1":5,"start2":5,"length1":16,"length2":20}]],"length":38,"saved":false}
+{"ts":1351304127867,"patch":[[{"diffs":[[0,"ng\nPros\n"],[1,"\nCons\n\n"],[0,"Integrat"]],"start1":10,"start2":10,"length1":16,"length2":23}]],"length":45,"saved":false}
+{"ts":1351304129632,"patch":[[{"diffs":[[0,"s\n\nCons\n"],[1,"    Doesn't"],[0,"\nIntegra"]],"start1":16,"start2":16,"length1":16,"length2":27}]],"length":56,"saved":false}
+{"ts":1351304130466,"patch":[[{"diffs":[[0," Doesn't"],[1," "],[0,"\nIntegra"]],"start1":27,"start2":27,"length1":16,"length2":17}]],"length":57,"saved":false}
+{"ts":1351304135380,"patch":[[{"diffs":[[0,"Doesn't "],[1,"take into account the environment\n    "],[0,"\nIntegra"]],"start1":28,"start2":28,"length1":16,"length2":54}]],"length":95,"saved":false}
+{"ts":1351304415472,"patch":[[{"diffs":[[0,"gration Testing\n"],[1,"    "]],"start1":79,"start2":79,"length1":16,"length2":20}]],"length":99,"saved":false}
+{"ts":1351304419558,"patch":[[{"diffs":[[0,"Testing\n    "],[1,"Adds time to t"]],"start1":87,"start2":87,"length1":12,"length2":26}]],"length":113,"saved":false}
+{"ts":1351304422450,"patch":[[{"diffs":[[0,"ime to t"],[1,"he develo"]],"start1":105,"start2":105,"length1":8,"length2":17}]],"length":122,"saved":false}
+{"ts":1351304423721,"patch":[[{"diffs":[[0,"deve"],[-1,"lo"]],"start1":116,"start2":116,"length1":6,"length2":4}]],"length":120,"saved":false}
+{"ts":1351304425849,"patch":[[{"diffs":[[0," to "],[-1,"the deve"]],"start1":108,"start2":108,"length1":12,"length2":4}]],"length":112,"saved":false}
+{"ts":1351304430188,"patch":[[{"diffs":[[0,"time to "],[1,"process\n    "]],"start1":104,"start2":104,"length1":8,"length2":20}]],"length":124,"saved":false}
+{"ts":1351304433373,"patch":[[{"diffs":[[0,"process\n    "],[1,"Diffi"]],"start1":112,"start2":112,"length1":12,"length2":17}]],"length":129,"saved":false}
+{"ts":1351304434887,"patch":[[{"diffs":[[0,"   Diffi"],[1,"cult t"]],"start1":121,"start2":121,"length1":8,"length2":14}]],"length":135,"saved":false}
+{"ts":1351304436459,"patch":[[{"diffs":[[0,"ficult t"],[1,"o deter"]],"start1":127,"start2":127,"length1":8,"length2":15}]],"length":142,"saved":false}
+{"ts":1351304438119,"patch":[[{"diffs":[[0,"to deter"],[1,"mine wn"]],"start1":134,"start2":134,"length1":8,"length2":15}]],"length":149,"saved":false}
+{"ts":1351304439354,"patch":[[{"diffs":[[0,"rmine wn"],[1,"y a"]],"start1":141,"start2":141,"length1":8,"length2":11}]],"length":152,"saved":false}
+{"ts":1351304442747,"patch":[[{"diffs":[[0,"ne w"],[-1,"n"],[1,"h"],[0,"y a"],[1," test f"]],"start1":144,"start2":144,"length1":8,"length2":15}]],"length":159,"saved":false}
+{"ts":1351304444545,"patch":[[{"diffs":[[0,"a test f"],[1,"ailed\n    "]],"start1":151,"start2":151,"length1":8,"length2":18}]],"length":169,"saved":false}
+{"ts":1351304472669,"patch":[[{"diffs":[[0,"Testing\n"],[-1,"    "],[1,"P"],[0,"Adds tim"]],"start1":87,"start2":87,"length1":20,"length2":17}]],"length":166,"saved":false}
+{"ts":1351304474549,"patch":[[{"diffs":[[0,"esting\nP"],[1,"ros\n    "],[0,"Adds tim"]],"start1":88,"start2":88,"length1":16,"length2":24}]],"length":174,"saved":false}
+{"ts":1351304477099,"patch":[[{"diffs":[[0,"ng\nPros\n"],[1,"    \n"],[0,"    Adds"]],"start1":92,"start2":92,"length1":16,"length2":21}]],"length":179,"saved":false}
+{"ts":1351304478256,"patch":[[{"diffs":[[0,"   \n    "],[1,"Cons"],[0,"Adds tim"]],"start1":101,"start2":101,"length1":16,"length2":20}]],"length":183,"saved":false}
+{"ts":1351304480026,"patch":[[{"diffs":[[0,"os\n    \n"],[-1,"    "],[0,"ConsAdds"]],"start1":97,"start2":97,"length1":20,"length2":16}]],"length":179,"saved":false}
+{"ts":1351304482011,"patch":[[{"diffs":[[0,"   \nCons"],[1,"\n"],[0,"Adds tim"]],"start1":101,"start2":101,"length1":16,"length2":17}]],"length":180,"saved":false}
+{"ts":1351304483200,"patch":[[{"diffs":[[0,"  \nCons\n"],[1,"    "],[0,"Adds tim"]],"start1":102,"start2":102,"length1":16,"length2":20}]],"length":184,"saved":false}
+{"ts":1351304553522,"patch":[[{"diffs":[[0,"ent\n    "],[1,"Doe"],[0,"\nIntegra"]],"start1":66,"start2":66,"length1":16,"length2":19}]],"length":187,"saved":false}
+{"ts":1351304554162,"patch":[[{"diffs":[[0,"\n    Doe"],[1,"sn"],[0,"\nIntegra"]],"start1":69,"start2":69,"length1":16,"length2":18}]],"length":189,"saved":false}
+{"ts":1351304555262,"patch":[[{"diffs":[[0,"   Doesn"],[1,"'t "],[0,"\nIntegra"]],"start1":71,"start2":71,"length1":16,"length2":19}]],"length":192,"saved":false}
+{"ts":1351304559985,"patch":[[{"diffs":[[0,"Doesn't "],[1,"test the interaction of modules"],[0,"\nIntegra"]],"start1":74,"start2":74,"length1":16,"length2":47}]],"length":223,"saved":false}
+{"ts":1351304561645,"patch":[[{"diffs":[[0,"modules\n"],[1,"    \n"],[0,"Integrat"]],"start1":106,"start2":106,"length1":16,"length2":21}]],"length":228,"saved":false}
+{"ts":1351304575818,"patch":[[{"diffs":[[0,"ng\nPros\n"],[1,"    "],[0,"\nCons\n  "]],"start1":10,"start2":10,"length1":16,"length2":20}]],"length":232,"saved":false}
+{"ts":1351304577327,"patch":[[{"diffs":[[0,"esting\nPros\n    "],[1,"Inte"],[0,"\nCons\n    Doesn'"]],"start1":6,"start2":6,"length1":32,"length2":36}]],"length":236,"saved":false}
+{"ts":1351304582425,"patch":[[{"diffs":[[0,"    Inte"],[1,"grated with the software"],[0,"\nCons\n  "]],"start1":18,"start2":18,"length1":16,"length2":40}]],"length":260,"saved":false}
+{"ts":1351304585283,"patch":[[{"diffs":[[0,"software"],[1," design process\n    "],[0,"\nCons\n  "]],"start1":42,"start2":42,"length1":16,"length2":36}]],"length":280,"saved":false}
+{"ts":1351304598953,"patch":[[{"diffs":[[0,"process\n    "],[1,"Catches the bugs "],[0,"\nCons\n    Do"]],"start1":58,"start2":58,"length1":24,"length2":41}]],"length":297,"saved":false}
+{"ts":1351304604043,"patch":[[{"diffs":[[0,"he bugs "],[1,"as they are created\n    e"],[0,"\nCons\n  "]],"start1":79,"start2":79,"length1":16,"length2":41}]],"length":322,"saved":false}
+{"ts":1351304607211,"patch":[[{"diffs":[[0,"ted\n    "],[-1,"e"],[1,"Easy to tell what "],[0,"\nCons\n  "]],"start1":103,"start2":103,"length1":17,"length2":34}]],"length":339,"saved":false}
+{"ts":1351304610574,"patch":[[{"diffs":[[0,"ll what "],[1,"caused the test to fai"],[0,"\nCons\n  "]],"start1":121,"start2":121,"length1":16,"length2":38}]],"length":361,"saved":false}
+{"ts":1351304612517,"patch":[[{"diffs":[[0,"t to fai"],[1,"l\n    "],[0,"\nCons\n  "]],"start1":143,"start2":143,"length1":16,"length2":22}]],"length":367,"saved":false}
+{"ts":1351304619330,"patch":[[{"diffs":[[0,"to fail\n    "],[1,"G"],[0,"\nCons\n    Do"]],"start1":145,"start2":145,"length1":24,"length2":25}]],"length":368,"saved":false}
+{"ts":1351304624155,"patch":[[{"diffs":[[0,"    "],[-1,"G"],[1,"Helps when re"],[0,"\nCon"]],"start1":153,"start2":153,"length1":9,"length2":21}]],"length":380,"saved":false}
+{"ts":1351304626017,"patch":[[{"diffs":[[0," when re"],[1,"factoring "],[0,"\nCons\n  "]],"start1":162,"start2":162,"length1":16,"length2":26}]],"length":390,"saved":false}
+{"ts":1351304629668,"patch":[[{"diffs":[[0,"ctoring "],[1,"(the test a"],[0,"\nCons\n  "]],"start1":172,"start2":172,"length1":16,"length2":27}]],"length":401,"saved":false}
+{"ts":1351304631808,"patch":[[{"diffs":[[0,"e test a"],[1,"re still valid"],[0,"\nCons\n  "]],"start1":183,"start2":183,"length1":16,"length2":30}]],"length":415,"saved":false}
+{"ts":1351304632855,"patch":[[{"diffs":[[0,"ll valid"],[1,")\n    "],[0,"\nCons\n  "]],"start1":197,"start2":197,"length1":16,"length2":22}]],"length":421,"saved":false}
+{"ts":1351304666931,"patch":[[{"diffs":[[0,"les\n    "],[1,"Doesn"],[0,"\nIntegra"]],"start1":303,"start2":303,"length1":16,"length2":21}]],"length":426,"saved":false}
+{"ts":1351304673182,"patch":[[{"diffs":[[0,"   Doesn"],[1,"'t take into account real data"],[0,"\nIntegra"]],"start1":308,"start2":308,"length1":16,"length2":46}]],"length":456,"saved":false}
+{"ts":1351304674123,"patch":[[{"diffs":[[0,"al data\n"],[1,"    \n"],[0,"Integrat"]],"start1":339,"start2":339,"length1":16,"length2":21}]],"length":461,"saved":false}
+{"ts":1351304754963,"patch":[[{"diffs":[[0,"ng\nPros\n    "],[1,"Ta"],[0,"\nCons\n    Ad"]],"start1":369,"start2":369,"length1":24,"length2":26}]],"length":463,"saved":false}
+{"ts":1351304760040,"patch":[[{"diffs":[[0,"s\n    Ta"],[1,"kes into account the environment\n    "],[0,"\nCons\n  "]],"start1":375,"start2":375,"length1":16,"length2":53}]],"length":500,"saved":false}
+{"ts":1351304764973,"patch":[[{"diffs":[[0,"ronment\n    "],[1,"Tests all mo"],[0,"\nCons\n    Ad"]],"start1":408,"start2":408,"length1":24,"length2":36}]],"length":512,"saved":false}
+{"ts":1351304775471,"patch":[[{"diffs":[[0,"sts "],[-1,"all "],[1,"the intaction a"],[0,"mo"],[1,"n"],[0,"\nCon"]],"start1":422,"start2":422,"length1":14,"length2":26}]],"length":524,"saved":false}
+{"ts":1351304777851,"patch":[[{"diffs":[[0,"ion amon"],[1,"g modules\n    "],[0,"\nCons\n  "]],"start1":436,"start2":436,"length1":16,"length2":30}]],"length":538,"saved":false}
+{"ts":1351304894290,"patch":[[{"diffs":[[0," valid)\n"],[-1,"    "],[0,"\n"],[1,""],[0,"Cons\n   "]],"start1":199,"start2":199,"length1":21,"length2":17},{"diffs":[[0,"al data\n"],[-1,"    "],[0,"\n"],[1,""],[0,"Integrat"]],"start1":335,"start2":335,"length1":21,"length2":17},{"diffs":[[0,"les\n"],[-1,"    "],[0,"\n"],[1,""],[0,"Cons"]],"start1":442,"start2":442,"length1":13,"length2":9},{"diffs":[[0," failed\n"],[-1,"    "]],"start1":514,"start2":514,"length1":12,"length2":8}]],"length":522,"saved":false}
+{"ts":1351305039381,"patch":[[{"diffs":[[0,"eal data"],[1,"\n    "],[0,"\n\nIntegr"]],"start1":334,"start2":334,"length1":16,"length2":21}]],"length":527,"saved":false}
+{"ts":1351305040254,"patch":[[{"diffs":[[0,"ata\n    "],[1,"D"],[0,"\n\nIntegr"]],"start1":339,"start2":339,"length1":16,"length2":17}]],"length":528,"saved":false}
+{"ts":1351305043240,"patch":[[{"diffs":[[0,"ta\n    D"],[1,"ifficult to be "],[0,"\n\nIntegr"]],"start1":340,"start2":340,"length1":16,"length2":31}]],"length":543,"saved":false}
+{"ts":1351305053312,"patch":[[{"diffs":[[0,"    "],[-1,"Difficult to be"],[1,"Not really"],[0," \n\nI"]],"start1":343,"start2":343,"length1":23,"length2":18}]],"length":538,"saved":false}
+{"ts":1351305057404,"patch":[[{"diffs":[[0," really "],[1,"\"independant"],[0,"\n\nIntegr"]],"start1":350,"start2":350,"length1":16,"length2":28}]],"length":550,"saved":false}
+{"ts":1351305059014,"patch":[[{"diffs":[[0,"pend"],[-1,"a"],[1,"e"],[0,"nt"],[1,"\""],[0,"\n\nIn"]],"start1":363,"start2":363,"length1":11,"length2":12}]],"length":551,"saved":false}
+{"ts":1351305061118,"patch":[[{"diffs":[[0,"pendent\""],[1," testing"],[0,"\n\nIntegr"]],"start1":363,"start2":363,"length1":16,"length2":24}]],"length":559,"saved":false}
+{"ts":1351305178022,"patch":[[{"diffs":[[0," testing"],[1,"\n    "],[0,"\n\nIntegr"]],"start1":371,"start2":371,"length1":16,"length2":21}]],"length":564,"saved":false}
+{"ts":1351305185772,"patch":[[{"diffs":[[0,"ing\n    "],[1,"You only catch the bugs you test for"],[0,"\n\nIntegr"]],"start1":376,"start2":376,"length1":16,"length2":52}]],"length":600,"saved":false}
+{"ts":1351305187715,"patch":[[{"diffs":[[0,"you "],[-1,"test for"],[0,"\n\nIn"]],"start1":408,"start2":408,"length1":16,"length2":8}]],"length":592,"saved":false}
+{"ts":1351305190652,"patch":[[{"diffs":[[0,"ugs you "],[1,"think to test for"],[0,"\n\nIntegr"]],"start1":404,"start2":404,"length1":16,"length2":33}]],"length":609,"saved":false}
+{"ts":1351305316569,"patch":[[{"diffs":[[0,"est for\n"],[1,"    It "],[0,"\nIntegra"]],"start1":422,"start2":422,"length1":16,"length2":23}]],"length":616,"saved":false}
+{"ts":1351305317493,"patch":[[{"diffs":[[0,"\n    It "],[1,"take"],[0,"\nIntegra"]],"start1":429,"start2":429,"length1":16,"length2":20}]],"length":620,"saved":false}
+{"ts":1351305320317,"patch":[[{"diffs":[[0," It take"],[1,"s to much time\n    "],[0,"\nIntegra"]],"start1":433,"start2":433,"length1":16,"length2":35}]],"length":639,"saved":false}
+{"ts":1351305327453,"patch":[[{"diffs":[[0," failed\n"],[1,"    D\n"]],"start1":631,"start2":631,"length1":8,"length2":14}]],"length":645,"saved":false}
+{"ts":1351305328715,"patch":[[{"diffs":[[0,"ed\n    D"],[1,"ecou"],[0,"\n"]],"start1":636,"start2":636,"length1":9,"length2":13}]],"length":649,"saved":false}
+{"ts":1351305333682,"patch":[[{"diffs":[[0,"   Decou"],[1,"pled from the design process"],[0,"\n"]],"start1":640,"start2":640,"length1":9,"length2":37}]],"length":677,"saved":false}
+{"ts":1351305344621,"patch":[[{"diffs":[[0,"modules\n"],[1,"    C"],[0,"\nCons\n  "]],"start1":555,"start2":555,"length1":16,"length2":21}]],"length":682,"saved":false}
+{"ts":1351305348002,"patch":[[{"diffs":[[0,"es\n    C"],[1,"an be independen"],[0,"\nCons\n  "]],"start1":560,"start2":560,"length1":16,"length2":32}]],"length":698,"saved":false}
+{"ts":1351305349762,"patch":[[{"diffs":[[0,"dependen"],[1,"t from the "],[0,"\nCons\n  "]],"start1":576,"start2":576,"length1":16,"length2":27}]],"length":709,"saved":false}
+{"ts":1351305355040,"patch":[[{"diffs":[[0,"ependent"],[-1," from the "],[0,"\nCons\n  "]],"start1":577,"start2":577,"length1":26,"length2":16}]],"length":699,"saved":false}
+{"ts":1351305356407,"patch":[[{"diffs":[[0,"pendent\n"],[1,"    \n"],[0,"Cons\n   "]],"start1":578,"start2":578,"length1":16,"length2":21}]],"length":704,"saved":false}
+{"ts":1351305566134,"patch":[[{"diffs":[[0,"ime\n    "],[1,"Relies on the skill of the devloper"],[0,"\nIntegra"]],"start1":452,"start2":452,"length1":16,"length2":51}]],"length":739,"saved":false}
+{"ts":1351305569959,"patch":[[{"diffs":[[0,"e skill "],[1,"and "],[0,"of the d"]],"start1":472,"start2":472,"length1":16,"length2":20}]],"length":743,"saved":false}
+{"ts":1351305571220,"patch":[[{"diffs":[[0,"ill and "],[1,"thou"],[0,"of the d"]],"start1":476,"start2":476,"length1":16,"length2":20}]],"length":747,"saved":false}
+{"ts":1351305572939,"patch":[[{"diffs":[[0,"and thou"],[1,"roug"],[0,"of the d"]],"start1":480,"start2":480,"length1":16,"length2":20}]],"length":751,"saved":false}
+{"ts":1351305576039,"patch":[[{"diffs":[[0," tho"],[-1,"u"],[0,"roug"],[1,"hness "],[0,"of t"]],"start1":483,"start2":483,"length1":13,"length2":18}]],"length":756,"saved":false}
+{"ts":1351305586068,"patch":[[{"diffs":[[0,"evloper\n"],[1,"    \n"],[0,"Integrat"]],"start1":505,"start2":505,"length1":16,"length2":21}]],"length":761,"saved":false}
+{"ts":1351305620889,"patch":[[{"diffs":[[0,"from the design process\n"],[1,"    \n    Li\n"]],"start1":737,"start2":737,"length1":24,"length2":36}]],"length":773,"saved":false}
+{"ts":1351305623601,"patch":[[{"diffs":[[0,"ss\n    \n"],[-1,"    "],[0,"Li\n"]],"start1":758,"start2":758,"length1":15,"length2":11}]],"length":769,"saved":false}
+{"ts":1351305625261,"patch":[[{"diffs":[[0,"\n    \nLi"],[1,"nks:\n"],[0,"\n"]],"start1":760,"start2":760,"length1":9,"length2":14}]],"length":774,"saved":false}
+{"ts":1351305639327,"patch":[[{"diffs":[[0,"\nLinks:\n"],[1,"http://www.typemock.com/blog/2012/07/16/developers-stop-doing-qas-job/"],[0,"\n"]],"start1":765,"start2":765,"length1":9,"length2":79}]],"length":844,"saved":false}
+{"ts":1351305640732,"patch":[[{"diffs":[[0,"as-job/\n"],[1,"\n"]],"start1":836,"start2":836,"length1":8,"length2":9}]],"length":845,"saved":false}
+{"ts":1351305815173,"patch":[[{"diffs":[[0,"s-job/\n\n"],[1,"\n\n"]],"start1":837,"start2":837,"length1":8,"length2":10}]],"length":847,"saved":false}
+{"ts":1351305818485,"patch":[[{"diffs":[[0,"-job/\n\n\n"],[1,"Frameworks:\nhttps://github.com/99designs/simpletest"],[0,"\n"]],"start1":838,"start2":838,"length1":9,"length2":60}]],"length":898,"saved":false}
+{"ts":1351305819226,"patch":[[{"diffs":[[0,"pletest\n"],[1,"\n"]],"start1":890,"start2":890,"length1":8,"length2":9}]],"length":899,"saved":false}
+{"ts":1351305860421,"patch":[[{"diffs":[[0,"pletest\n"],[1,"https://github.com/sebastianbergmann/phpunit"],[0,"\n"]],"start1":890,"start2":890,"length1":9,"length2":53}]],"length":943,"saved":false}
+{"ts":1351305861412,"patch":[[{"diffs":[[0,"phpunit\n"],[1,"\n"]],"start1":935,"start2":935,"length1":8,"length2":9}]],"length":944,"saved":false}
+{"ts":1351305884687,"patch":[[{"diffs":[[0,"phpunit\n"],[1,"https://github.com/bschussek/lime"],[0,"\n"]],"start1":935,"start2":935,"length1":9,"length2":42}]],"length":977,"saved":false}
+{"ts":1351305885831,"patch":[[{"diffs":[[0,"hussek/lime\n"],[1,"\n"]],"start1":965,"start2":965,"length1":12,"length2":13}]],"length":978,"saved":false}
