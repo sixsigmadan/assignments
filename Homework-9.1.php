@@ -1,11 +1,12 @@
 <?php
 function factor($a)
 {
-for ($i = $a, $j=($i-1); $i > 0; $i--)
+for ($i = $a, $j=$a; $i > 1; $i--)
 {
-$j=$i;
-
+$j=$j*($i-1);
 }
+return $j;
 }
-assert(factor(3) == 6 );
+echo factor(5);
+assert(factor(4) == 24 );
 ?>
