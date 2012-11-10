@@ -2,20 +2,14 @@
 
 include "Calculator.php";
 
-function test($a)
+function test($a,$b,$c,$d)
 {
-$b=$a;
-if (assert($a))
-echo $b . "  success";
+if (assert($a($b,$c) == $d))
+echo $a . "ing "  . $b . " and " . $c  . " is succussful" . "\n"; 
+else
+echo $a . "ing "  . $b . " and " . $c  . " is unsuccussful" . "\n";
 }
 
-test(add(-1,-1) == -2);
-test(add(-1,0) == -1);
-test(add(-1,1) == 0);
-test(add(0,-1) == -1); 
-test(add(0,0) == 0);
-test(add(0,1) == 1);
-test(add(1,-1) == 0);
-test(add(1,0) == 1);
-test(add(1,1) == 2);
+test("add",-1,-1,-2);
+test("subtract", -1, 0, -1);
 ?>
