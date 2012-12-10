@@ -12,12 +12,10 @@
 
 // The $doors array is defined with 100 doors that are initially closed
 
-$doors = array_fill(1,10, "Closed");
+$doors = array_fill(1,10, "closed");
 
-function toggle($row){
-    foreach($row as $key => $value){
-        $value[$key] = "Open";
+    foreach($doors as  &$value){
+        $value = "open";
     }
-}
 
-toggle($doors);
+$doors['1']="open";
