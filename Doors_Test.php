@@ -20,4 +20,12 @@ foreach ($doors as $key => $value){
     assert ($value == "open");
     echo "$key is $value \n" ;   
 }
-    var_dump ($doors);
+    
+for ($i=1; $i<3; $i++)
+{
+    for ($d = $i; $d < 3;)
+    {
+        assert($doors[$d] == "closed");
+        $d = $d + $i;
+    }
+}

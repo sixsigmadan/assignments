@@ -14,8 +14,6 @@
 
 $doors = array_fill(1,10, "closed");
 
-    foreach($doors as  &$value){
+foreach($doors as  &$value){
         $value = "open";
-    }
-
-$doors['1']="open";
+}
