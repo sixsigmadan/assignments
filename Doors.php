@@ -14,6 +14,15 @@
 
 $doors = array_fill(1,10, "closed");
 
-foreach($doors as  &$value){
+// The hallway function passes the doors a number of times as defined by the $pass
+// parameter. On each pass, if a door's number is a mutliple of the pass, it is either
+//opened or closed. 
+
+function hallway($pass)
+{
+
+    foreach($doors as  &$value)
+    {
         $value = "open";
+    }
 }

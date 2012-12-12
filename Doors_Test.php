@@ -16,16 +16,12 @@ else
     echo "\$doors does not exist";
 }
 
-foreach ($doors as $key => $value){
-    assert ($value == "open");
-    echo "$key is $value \n" ;   
-}
-    
-for ($i=1; $i<3; $i++)
+if (hallway(2))
 {
-    for ($d = $i; $d < 3;)
-    {
-        assert($doors[$d] == "closed");
-        $d = $d + $i;
-    }
+    assert
+    (
+    $doors[1] == "open" && 
+    $doors[2] == "closed" &&
+    $doors[3] == "open"
+    );
 }
