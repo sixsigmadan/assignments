@@ -14,14 +14,14 @@
 
 $doors = array_fill(1,10, "closed");
 
-// The hallway function passes the doors a number of times as defined by the $pass
+// The toggle function passes the doors defined by the $array paramater a number of times as defined by the $pass
 // parameter. On each pass, if a door's number is a mutliple of the pass, it is either
 //opened or closed. 
 
-function hallway($pass)
+function toggle(&$input, $pass = "1")
 {
 
-    foreach($doors as  &$value)
+    foreach($input as  &$value)
     {
         $value = "open";
     }
