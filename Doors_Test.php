@@ -17,40 +17,37 @@ else
     echo "\$doors does not exist";
 }
 
-//Test to see if the lenght of the array is 10
-if (count($doors) == 10)
+//Test to see if the lenght of the array is 100
+if (assert(count($doors) == 100))
     {
-        echo "The doors array is of length 10\n";
+        echo "The doors array is of length 100\n";
     }
     else 
     {
-        echo "The doors array is not of lengh 10\n";
+        echo "The doors array is not of lengh 100\n";
     }
 
-//Test to see if each door is open
-toggle($doors);
-foreach($doors as $index => $value)
+//The toggle_test function takes two inputs, an array representing the hallway of doors and a literal integar representing the number
+//of passes made past the hallway of doors. The function then 
+
+function toggle_test($array_input, $pass_num)
 {
-    if(assert($value == "open"))
-    {
-        echo "Door $index is open\n";
-    }
-}
-
-//Test to see if ever 2nd door is closed by passing the $toggle function 
-//1 for the $pass parameter
-
-foreach($doors as $index => $value)
-{
-   if ($index % 2 == 0)
-    {
-        if(@assert($value == "closed"))
+    toggle($array_input, $pass_num);
+    foreach($array_input as $index => $value)
+        {
+            if(@assert($value == "open"))
             {
-                echo "Door $index is closed\n";
+                echo "Door $index is open\n";
             }
-            else
-            {
-                echo "Door $index is not closed\n";
-            }
-    }
+                else
+                {
+                    echo "Door $index is closed\n";
+                }
+        }
 }
+$test1 = array_fill(1,30,"closed");
+toggle($test1, 30);
+var_dump($test1);
+assert($test1[1] == "open");
+assert($test1[2] == "closed");
+assert($test1[9] == "open");
